@@ -1,8 +1,8 @@
 ---
-title: Azure Functions の関連
+title: 【今からでも遅くない】ラズベリーパイでやってみたこと
 tags:
   - ''
-private: false
+private: true
 updated_at: ''
 id: null
 organization_url_name: null

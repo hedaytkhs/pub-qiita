@@ -1,8 +1,8 @@
 ---
-title: Docker入門
+title: 【今からでも遅くない】Azure 全般の学習に役立つ気づきや経験を共有
 tags:
   - ''
-private: false
+private: true
 updated_at: ''
 id: null
 organization_url_name: null

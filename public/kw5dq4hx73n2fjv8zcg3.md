@@ -1,8 +1,8 @@
 ---
-title: セルフブランディングのための情報発信の環境を整えよう
+title: 【今からでも遅くない】セルフブランディングのための情報発信の環境を整えよう
 tags:
   - ''
-private: false
+private: true
 updated_at: ''
 id: null
 organization_url_name: null

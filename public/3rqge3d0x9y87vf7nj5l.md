@@ -1,8 +1,8 @@
 ---
-title: Azure 全般の学習に役立つ気づきや経験を共有
+title: プログラミング教育の一環としての M5 Stackの活用
 tags:
   - ''
-private: false
+private: true
 updated_at: ''
 id: null
 organization_url_name: null
